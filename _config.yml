@@ -1,0 +1,15 @@
+# Site Settings
+title: Polscisr
+email: bchartoff@gmail.com
+description: >
+  Political Scientists for Social Responsibility
+baseurl: ""
+url: "http://polscisr.org/"
+twitter_username: polscisr
+github_username:  polscisr
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
