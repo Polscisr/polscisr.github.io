@@ -3,8 +3,7 @@ title: Polscisr
 email: bchartoff@gmail.com
 description: >
   Political Scientists for Social Responsibility
-baseurl: "/"
-url: "http://polscisr.org/"
+url: "http://127.0.0.1:4000/"
 twitter_username: polscisr
 github_username:  polscisr
 # Build Settings
